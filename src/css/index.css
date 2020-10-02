@@ -1,0 +1,106 @@
+body{
+background-color:#F5F5F5;
+}
+
+.fm{
+font-family: 'Montserrat', sans-serif;
+}
+
+.content_btn{
+    color:#FFFFFF;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    text-decoration: none!important;
+    padding-left: 8px;
+    padding-right: 11px;
+    border-radius: 8px;
+    background: transparent linear-gradient(180deg, #6FE3FF 0%, #2FC7F5 100%) 0% 0% no-repeat padding-box;
+}
+
+.content_btn:hover{
+color:white;
+}
+
+.cont_dash{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #707070;
+}
+
+#page-content-wrapper{
+    width: 100%;
+}
+
+.card_one{
+border-radius: 13px;
+color:white;
+width: 310px;
+font-family: 'Montserrat', sans-serif;
+background: transparent linear-gradient(91deg, #C694F9 0%, #AB64F4 100%) 0% 0% no-repeat padding-box;
+}
+
+.card_two{
+border-radius: 13px;
+color:white;
+width: 310px;
+cursor: pointer!important;
+font-family: 'Montserrat', sans-serif;
+background: transparent linear-gradient(90deg, #6AA5E3 0%, #6866E9 100%) 0% 0% no-repeat padding-box;
+}
+
+.card_three{
+border-radius: 13px;
+color:white;
+width: 310px;
+font-family: 'Montserrat', sans-serif;
+background: transparent linear-gradient(90deg, #FEB683 0%, #FF8993 100%) 0% 0% no-repeat padding-box;
+}
+
+.card_ic{
+font-size: 25px;
+font-weight: bolder;
+opacity: 1;
+}
+
+.card_total{
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+letter-spacing: 1px;
+}
+
+.card_price{
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+}
+
+.card_inc{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#circle {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    opacity: 0.14;
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+#circle_bot{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    opacity: 0.14;
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 160px;
+}

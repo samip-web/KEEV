@@ -1,0 +1,80 @@
+.sidebar-heading{
+height: 56px;
+padding-top: 10px;
+}
+
+.navbar-brands{
+height: 47px;
+text-align: left;
+letter-spacing: 0px;
+color: #3BCCF6!important;
+font-family: normal 'Arial Narrow Bold' 900 35px/60px SF Compact Display;
+font-size: 30px;
+font-weight: 700;
+margin-left: 90px!important;
+opacity: 1;
+text-decoration: none!important;
+    }
+
+#sidebar-wrapper{
+width: 290px!important;
+}
+
+.sidebar_icon{
+display: inline-flex;
+}
+
+.sidebar_icon_text{
+margin-top: -4px;
+font-size: 13px;
+color: #707070;
+font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar_icon_sm_text{
+margin-top: -2px;
+font-size: 11px;
+margin-left: -86px;
+width: 80px;
+color: #707070;
+font-family: 'Montserrat', sans-serif;
+}
+
+.dashboard{
+color: #3BCCF6;
+font-weight: 900;
+font-size: 14px;
+}
+
+.dashboard span{
+float: right;
+}
+
+.sb-list{
+color: #707070ce;
+font-size: 14px;
+font-weight: 600;
+}
+
+.sb-list span{
+float: right;
+}
+
+.tbtn{
+    border:none;
+    color:#FFFFFF!important;
+    font-size: 13px; 
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 450px;
+    padding-top: 13px;
+    padding-bottom: 12px;
+    padding-right: 38px;
+    padding-left: 39px;
+    cursor: pointer;
+    background: transparent linear-gradient(180deg, #6FE3FF 0%, #2FC7F5 100%) 0% 0% no-repeat padding-box;
+}
+
+.hide{
+    display: none!important;
+}
+

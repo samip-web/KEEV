@@ -1,0 +1,52 @@
+.nav_input{
+border:none;
+}
+
+.nav_input_icon{
+color: #9F9F9F!important;
+cursor: pointer;
+}
+
+.box-purp span{
+height: 5px;
+width: 5px;
+background-color: #EF77FF;
+border-radius: 50%;
+}
+
+.box-org span{
+height: 5px;
+width: 5px;
+background-color: #FC8F3F;
+border-radius: 50%;
+font-size: 14px;
+}
+
+.nav_text{
+    font-family: 'Montserrat', sans-serif;
+color: #707070;
+font-size: 14px;
+font-weight: 500;
+}
+
+.avatar {
+vertical-align: middle;
+width: 28px;
+height: 28px;
+border-radius: 50%;
+}
+
+.avatar_online{
+height: 8px;
+width: 8px;
+background-color: #39DD84;
+border-radius: 50%;
+font-size: 14px;
+margin-top: 22px;
+
+position: absolute;
+}
+
+.blue_box{
+color:#6AA5E3
+}
